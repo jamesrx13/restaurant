@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,OAEI,SACA,UACA","file":"style.css","sourcesContent":["*,\r\nhtml {\r\n    margin: 0;\r\n    padding: 0;\r\n    font-family: system-ui !important;\r\n}"]}

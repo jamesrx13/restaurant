@@ -1,0 +1,21 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start:css": "gulp"
+  },
+  "devDependencies": {
+    "express": "^4.18.2",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-zip": "^5.1.0",
+    "sass": "^1.66.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
